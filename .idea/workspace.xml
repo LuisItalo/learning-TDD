@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3568a860-b733-4ae2-b658-a176fd560b77" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/calculadora_teste/Calculos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/calculadora_teste/CalculosTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit3 Test Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2BtsL7fMpBEoSkSYmUqYeXch4lX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit3": "junit.framework.TestCase",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+      <recent name="junit.framework.TestCase" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="calculadora_teste" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.CalculosTest">
+    <configuration name="CalculosTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="testeUnitarios" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="calculadora_teste.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="calculadora_teste" />
+      <option name="MAIN_CLASS_NAME" value="calculadora_teste.CalculosTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalculosTest.retornaRaizQuadrada" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="testeUnitarios" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="calculadora_teste.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="calculadora_teste" />
+      <option name="MAIN_CLASS_NAME" value="calculadora_teste.CalculosTest" />
+      <option name="METHOD_NAME" value="retornaRaizQuadrada" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalculosTest.retornarZeroQuandoNadaInformado" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="testeUnitarios" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="calculadora_teste.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="calculadora_teste" />
+      <option name="MAIN_CLASS_NAME" value="calculadora_teste.CalculosTest" />
+      <option name="METHOD_NAME" value="retornarZeroQuandoNadaInformado" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalculosTest.verifivaNumeroPar" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="testeUnitarios" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="calculadora_teste.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="calculadora_teste" />
+      <option name="MAIN_CLASS_NAME" value="calculadora_teste.CalculosTest" />
+      <option name="METHOD_NAME" value="verifivaNumeroPar" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CalculosTest" />
+        <item itemvalue="JUnit.CalculosTest.retornarZeroQuandoNadaInformado" />
+        <item itemvalue="JUnit.CalculosTest.retornaRaizQuadrada" />
+        <item itemvalue="JUnit.CalculosTest.verifivaNumeroPar" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3568a860-b733-4ae2-b658-a176fd560b77" name="Changes" comment="" />
+      <created>1657736663090</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1657736663090</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/testeUnitarios$CalculosTest_retornarZeroQuandoNadaInformado.ic" NAME="CalculosTest.retornarZeroQuandoNadaInformado Coverage Results" MODIFIED="1657741951342" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>calculadora_teste.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/testeUnitarios$CalculosTest_retornaRaizQuadrada.ic" NAME="CalculosTest.retornaRaizQuadrada Coverage Results" MODIFIED="1657741094484" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>calculadora_teste.*</FILTER>
+    </SUITE>
+  </component>
+</project>
